@@ -116,7 +116,7 @@
 
 
 
-//10 Screen flash green color
+//10 Screen flash green color for 1 second
 
 - (NSTimer *) timer {
     if (!_timer) {
